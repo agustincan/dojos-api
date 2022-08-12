@@ -1,0 +1,3 @@
+const STUDENT_DIRECTOR_ID = 3
+
+export default STUDENT_DIRECTOR_ID;
