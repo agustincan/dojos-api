@@ -4,7 +4,7 @@
    "host": "172.17.0.2",
    "port": 5432,
    "username": "postgres",
-   "password": "secreta202",
+   "password": "admin1234",
    "database": "dojos",
    "synchronize": true,
    "logging": false,
